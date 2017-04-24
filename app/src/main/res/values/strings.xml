@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NASAproject</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="data_base_name">fgfg.db</string>
+    <integer name="data_base_version">1</integer>
+</resources>
